@@ -1,0 +1,32 @@
+body {
+    /*background: #ff00dd;*/
+    color: #333;
+    font-family: Arial;
+}
+
+#wrapper {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    /*text-align: center;*/
+    padding-bottom: 50px;
+    font-size: 3em;
+}
+
+.irasas {
+    padding: 10px;
+    margin-bottom: 20px;
+    background-color: #eee;
+}
+
+.data {
+    padding: 0;
+    margin: 0;
+    margin-top: -20px;
+    text-align: right;
+    size: 0.4em;
+    color: #0088dd;
+}
